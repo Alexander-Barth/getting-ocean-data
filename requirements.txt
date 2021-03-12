@@ -1,1 +1,2 @@
 matplotlib==3.2.1
+motuclient==1.8.8
